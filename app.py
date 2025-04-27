@@ -5,12 +5,14 @@ import requests
 from bson import ObjectId
 from dotenv import load_dotenv
 from flask import Flask, jsonify, request
+from flask_cors import CORS
 from pymongo import MongoClient
 
 # Load environment variables
 load_dotenv()
 
 app = Flask(__name__)
+CORS(app)
 
 # MongoDB connection
 client = MongoClient(os.getenv("MONGODB_URI", "mongodb://localhost:27017/"))
