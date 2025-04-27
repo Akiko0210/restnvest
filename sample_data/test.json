@@ -1,0 +1,41 @@
+[
+{
+    "title": "Founder",
+    "company_name": "FOM Capital Group",
+    "start_date": "2018-08-01T00:00:00",
+    "end_date": "1970-01-01T00:00:00",
+    "description": "",
+    "location": "Dallas/Fort Worth Area",
+    "company_logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEMieeteHHH3A/company-logo_400_400/company-logo_400_400/0/1630566827581/fom_capital_group_logo?e=1747267200&v=beta&t=tRpjYQ9xTW862NuLioaHVU3XqIngvuw_LHFT-zdLKkQ"
+  },
+  {
+    "_id": {
+      "$oid": "680dece9c03a833a391a0fcd"
+    },
+    "Name": "Parallel Systems",
+    "Description": "Autonomous, battery-electric rail system aiming to transition freight transportation from trucking to rail.",
+    "Founders": "Ben Stabler, Brian Ignaut, John Howard, Matthew Soule",
+    "Founder_LinkedIn": {
+      "Ben Stabler": "https://www.linkedin.com/in/ben-stabler/",
+      "Brian Ignaut": "https://www.linkedin.com/in/brianignaut/",
+      "John Howard": "https://www.linkedin.com/in/john-howard-71a70660/",
+      "Matthew Soule": "https://www.linkedin.com/in/matthew-soule-11b2803/"
+    },
+    "Launch Date": "2020",
+    "Website": null,
+    "Industry": [
+      "Transportation",
+      "Autonomous Vehicles",
+      "Clean Energy"
+    ],
+    "Early Metrics": "Raised a total of $91.3M in equity funding, backed by Anthos Capital, Collaborative Fund, Congruent Ventures, Riot Ventures",
+    "Funding Status": "$38M",
+    "Location": "Los Angeles, USA",
+    "Press": "Raised $38M in a round to push forward autonomous electric rail system innovation, contributing to freight transportation sustainability and reduced carbon emissions.",
+    "score": 88,
+    "funding": 53150000,
+    "stage": "Series A"
+  }
+
+
+]
